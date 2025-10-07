@@ -1,12 +1,17 @@
-### Let's keep the awesome ConfigServer Firewall alive!
+Sentinel is a fork of ConfigServer Firewall & Security
 
-ConfigServer is widely used by developers, hosting companies, and control panels.. Keeping it healthy and updated is in everyone’s interest, and joining efforts in one central place means:
+⚡ The sudden shutdown of Configserver in 2025 has left a huge gap in our ecosystem. For years, ConfigServer Firewall (CSF) has been the backbone of server security for hosting providers and control panels —stable, feature-rich, and trusted by sysadmins everywhere.
 
-* The awesome ConfigServer Firewall keeps existing
-* A shared pool of contributors instead of scattered forks
-* Faster bug fixes and feature improvements
-* Long-term stability that hosting providers and control panels can rely on
+Luckily, Way to the Web Limited released the CSF script under the GPL license.
 
-I have set up a neutral GitHub organization to host the community-driven fork: Sentinel - and everyone is very welcome to join, contribute, or even just use it and share feedback. 🙌
+Soon after, a group of us SysAdmins have started the Sentinel project — a fork of CSF that is actively maintained, community-driven, and fully compatible as a drop-in replacement for existing servers.
 
-[Stefan](https://github.com/stefanpejcic/), Co-Founder of OpenPanel
+🔧 The mission:
+
+- Keep the features that made CSF indispensable
+- Actively patch, improve, and adapt it to modern needs (ipsets to nfset, iptbales to nftables..)
+- Build a sustainable, open project for the community
+
+If you’ve relied on CSF in your day-to-day work, this is your chance to shape its future. We’re looking for developers, testers, sysadmins, writers, designers — anyone passionate about keeping servers secure.
+
+👉 Let’s make sure the tool we’ve all depended on doesn’t fade away. Join us in building Sentinel and carry CSF’s legacy forward.
